@@ -522,3 +522,9 @@ img::-moz-selection {
     color: #fff;
     background: 0 0;
 }
+
+.perfil-circle{
+    height: 180px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
